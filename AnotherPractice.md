@@ -9,3 +9,5 @@ Can I modify this file after being added to staging? Yes I can!
 Dude, can you figure out how to spell "continuing"? -__-
 
 What can I say, I'm a wittle dumb sometimes :P
+
+Fine. Then try to pull this update using GitHub Desktop, and not Terminal
