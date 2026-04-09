@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "general_repo",
+			"path": "../general_repo"
+		}
+	],
+	"settings": {
+		"explorer.openEditors.visible": 1,
+		"terminal.integrated.fontSize": 16,
+		"workbench.colorTheme": "Visual Studio Dark",
+		"workbench.statusBar.visible": true
+	}
+}
