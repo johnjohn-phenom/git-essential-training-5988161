@@ -14,3 +14,5 @@ Fine. Then try to pull this update using GitHub Desktop, and not Terminal
 
 Cool. Easy enough. Basically just "fetching" from origin and pushing to local. Takes two clicks.
 Seeing if I can just commit changes directly in VSC, or if I need to add them to staging first.
+
+Hello again!
