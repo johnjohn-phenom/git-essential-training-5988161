@@ -4,8 +4,8 @@
 			"path": "."
 		},
 		{
-			"name": "general_repo",
-			"path": "../general_repo"
+			"name": "general-repo",
+			"path": "../general-repo"
 		}
 	],
 	"settings": {
