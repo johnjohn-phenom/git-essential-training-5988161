@@ -20,3 +20,5 @@ Hello again!
 Hewwooo
 
 Use "git diff" to see this change
+
+This text is to see how the GUI in VSCode works.
