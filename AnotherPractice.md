@@ -17,4 +17,6 @@ Seeing if I can just commit changes directly in VSC, or if I need to add them to
 
 Hello again!
 
-Hewwoooo
+Hewwooo
+
+Use "git diff" to see this change
